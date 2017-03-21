@@ -1,3 +1,4 @@
 *.ser
 venv
 build
+hex

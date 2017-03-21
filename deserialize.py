@@ -41,4 +41,5 @@ if __name__ == "__main__":
     print("decoded python object:")
     print(pobj)
     pprint(pobj.__dict__)
+    pprint(pobj.classdesc.fields_names)
 
