@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
     pobj = read_object(args.infile)
 
-    print("old python object:")
+    print("decoded python object:")
     print(pobj)
     pprint(pobj.__dict__)
 
